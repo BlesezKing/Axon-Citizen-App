@@ -1,8 +1,8 @@
 {
-  "build": 27,
-  "version": "v27",
-  "file": "AXON-CITIZEN-update-v27.zip",
-  "sha256": "6A4D67D420127ADAB773C6B0AF6C1EE782D18B66F6B1FBD554C69078D848A627",
-  "size": 12900675,
-  "notes": "Atajos de teclado para entrenar la calculadora sin salir del juego; deshacer la ultima anotacion"
+  "build": 28,
+  "version": "v28",
+  "file": "AXON-CITIZEN-update-v28.zip",
+  "sha256": "4506DFAA5A89F5599194E811D53860BDE435AEB50D0845A47C28625CD634EF64",
+  "size": 12901734,
+  "notes": "Cada puesto conserva su % al entrenar la calculadora (varios laseres a la vez)"
 }
