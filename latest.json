@@ -1,8 +1,8 @@
 {
-  "build": 28,
-  "version": "v28",
-  "file": "AXON-CITIZEN-update-v28.zip",
-  "sha256": "4506DFAA5A89F5599194E811D53860BDE435AEB50D0845A47C28625CD634EF64",
-  "size": 12901734,
-  "notes": "Cada puesto conserva su % al entrenar la calculadora (varios laseres a la vez)"
+  "build": 29,
+  "version": "v29",
+  "file": "AXON-CITIZEN-update-v29.zip",
+  "sha256": "49A420DF8950C751F22021D23B2942C4F1BA922586F5EE401C303CF9D53980FE",
+  "size": 12911007,
+  "notes": "Lee solo el nivel de carga y el % del laser del HUD; el entrenamiento ya no necesita teclear el %"
 }
