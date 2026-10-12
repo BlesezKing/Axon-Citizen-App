@@ -1,8 +1,8 @@
 {
-  "build": 29,
-  "version": "v29",
-  "file": "AXON-CITIZEN-update-v29.zip",
-  "sha256": "49A420DF8950C751F22021D23B2942C4F1BA922586F5EE401C303CF9D53980FE",
-  "size": 12911007,
-  "notes": "Lee solo el nivel de carga y el % del laser del HUD; el entrenamiento ya no necesita teclear el %"
+  "build": 30,
+  "version": "v30",
+  "file": "AXON-CITIZEN-update-v30.zip",
+  "sha256": "B7DBC7139DF047775E0CEEF6E6418E4027263C23CC4CEB04C72BA90C9657000D",
+  "size": 12911399,
+  "notes": "La lectura del nivel de carga ya no confunde etiquetas de rocas con el indicador"
 }
