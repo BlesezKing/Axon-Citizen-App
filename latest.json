@@ -1,8 +1,8 @@
 {
-  "build": 31,
-  "version": "v31",
-  "file": "AXON-CITIZEN-update-v31.zip",
-  "sha256": "D675986EB1D19A40528F222F6FF21D7A62BAF3558EA7B6830355AF364BB31BDB",
-  "size": 12912420,
-  "notes": "La lectura de carga y del % del laser funciona a 720p, 1080p, 1440p y 4K"
+  "build": 32,
+  "version": "v32",
+  "file": "AXON-CITIZEN-update-v32.zip",
+  "sha256": "6DA033552BE198E1C8BF3FD10C6EF6A8A36A2D2E9E80306F56A39CBDA457B395",
+  "size": 12928177,
+  "notes": "Pestana Entrenamiento IA: roca fijada y asistente guiado que entrena por biseccion"
 }
