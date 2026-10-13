@@ -1,8 +1,8 @@
 {
-  "build": 30,
-  "version": "v30",
-  "file": "AXON-CITIZEN-update-v30.zip",
-  "sha256": "B7DBC7139DF047775E0CEEF6E6418E4027263C23CC4CEB04C72BA90C9657000D",
-  "size": 12911399,
-  "notes": "La lectura del nivel de carga ya no confunde etiquetas de rocas con el indicador"
+  "build": 31,
+  "version": "v31",
+  "file": "AXON-CITIZEN-update-v31.zip",
+  "sha256": "D675986EB1D19A40528F222F6FF21D7A62BAF3558EA7B6830355AF364BB31BDB",
+  "size": 12912420,
+  "notes": "La lectura de carga y del % del laser funciona a 720p, 1080p, 1440p y 4K"
 }
