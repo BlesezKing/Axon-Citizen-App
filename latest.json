@@ -1,8 +1,8 @@
 {
-  "build": 32,
-  "version": "v32",
-  "file": "AXON-CITIZEN-update-v32.zip",
-  "sha256": "6DA033552BE198E1C8BF3FD10C6EF6A8A36A2D2E9E80306F56A39CBDA457B395",
-  "size": 12928177,
-  "notes": "Pestana Entrenamiento IA: roca fijada y asistente guiado que entrena por biseccion"
+  "build": 33,
+  "version": "v33",
+  "file": "AXON-CITIZEN-update-v33.zip",
+  "sha256": "FD59060CDBB5D9FBC5DC479A21E6D47830119092972A4A0398AE0B6B463B22F5",
+  "size": 12993723,
+  "notes": "Valor por roca, tiempos y aUEC/h, rocas del grupo y temporizador de refineria con avisos de Windows"
 }
